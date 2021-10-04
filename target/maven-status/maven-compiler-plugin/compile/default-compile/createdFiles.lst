@@ -1,0 +1,7 @@
+org/apache/struts/example/crud/service/DefaultTarefaService.class
+org/apache/struts/example/crud/service/TarefaService.class
+org/apache/struts/example/crud/action/TarefaAction.class
+org/apache/struts/example/crud/model/Tarefa.class
+org/apache/struts/example/crud/dao/TarefaDao.class
+org/apache/struts/example/crud/model/Department.class
+org/apache/struts/example/crud/dao/InMemoryTarefaDao.class

@@ -1,0 +1,7 @@
+/home/renan/Documentos/struts2-crud-example-master/src/main/java/org/apache/struts/example/crud/action/TarefaAction.java
+/home/renan/Documentos/struts2-crud-example-master/src/main/java/org/apache/struts/example/crud/model/Tarefa.java
+/home/renan/Documentos/struts2-crud-example-master/src/main/java/org/apache/struts/example/crud/dao/InMemoryTarefaDao.java
+/home/renan/Documentos/struts2-crud-example-master/src/main/java/org/apache/struts/example/crud/service/DefaultTarefaService.java
+/home/renan/Documentos/struts2-crud-example-master/src/main/java/org/apache/struts/example/crud/model/Department.java
+/home/renan/Documentos/struts2-crud-example-master/src/main/java/org/apache/struts/example/crud/service/TarefaService.java
+/home/renan/Documentos/struts2-crud-example-master/src/main/java/org/apache/struts/example/crud/dao/TarefaDao.java
